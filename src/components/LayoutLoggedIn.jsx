@@ -1,11 +1,11 @@
 import React from "react";
 import { Outlet } from "react-router-dom";
-import Sidebar from "./Sidebar";
+import SideBar from "./SideBar";
 import LoginNavbar from "./LoginNavbar";
 const LayoutLoggedIn = ({ children }) => {
   return (
     <div className="flex">
-      <Sidebar />
+      <SideBar />
       <div className="w-full">
         <LoginNavbar />
         <Outlet />
