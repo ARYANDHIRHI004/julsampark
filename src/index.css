@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Momo+Trust+Display&display=swap'); 
+
+@import "tailwindcss";
+
+.leaflet-container{
+    height: 60vh;
+    width: 80vw;
+    border-radius: 5px;
+}
+
+@theme {
+  --font-roboto: "Momo Trust Display", sans-serif; 
+}
