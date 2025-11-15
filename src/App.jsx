@@ -13,7 +13,7 @@ import Dashboard from "./components/Dashboard";
 import PumpControllers from "./pages/PumpControllers";
 import AnalyticsAndReports from "./pages/AnalyticsAndReports";
 import Alert from "./pages/Alert";
-import UserQuery from "./pages/userQuery";
+import UserQuery from "./pages/UserQuery";
 import OperatoreForm from "./pages/OperaterForm";
 import UserQueryPage from "./pages/UserQueryPage";
 import AdminSideUserQueries from "./pages/AdminSideUserQueries";
